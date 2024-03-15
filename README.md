@@ -12,6 +12,7 @@
 <a href="https://www.credly.com/badges/3e7ce1b8-c79e-4b9e-bcff-222e3eacd0ab/public_url" about="_blank"><img src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width="150px"/></a>
 
 ## 📍Badge Completion Learning
+<a href="https://www.credly.com/badges/7b626616-c418-43b7-ace5-35903eeff369/public_url" about="_blank"><img src="https://images.credly.com/images/2f7b0627-48a0-4894-8d46-3245bdfe0463/image.png" width="150px"/></a> 
 <a href="https://www.credly.com/badges/65ded823-c9fb-4fee-8014-93b289daf859/public_url" about="_blank"><img src="https://images.credly.com/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" width="150px"/></a>
 <a href="https://www.credly.com/badges/1393b05e-ce48-466b-846e-432fceeb991f/public_url" about="_blank"><img src="https://images.credly.com/images/e25cb39f-b60b-494c-99a3-64a466577282/image.png" width="150px"/></a>
 
