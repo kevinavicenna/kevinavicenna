@@ -2,7 +2,7 @@
 👋 Hi, I’m Kevin Avicenna Widiarto<br>
 👀 I’m interested in Data and AI field<br>
 🌱 I’m currently learning Cloud Engineer, DevOps Engineer and Machine Learning Engineer Path <br>
-📫 How to reach me kevinavicenna@duck.com<br>
+📫 How to reach me kevinavicennaaaa@duck.com<br>
 
 ## 🏆 Certification (Credly by Pearson)
 <a href="https://www.credly.com/badges/3100f914-2a7f-4443-84ee-1a0eb2e37d60/public_url" about="_blank"><img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="150px"/></a>
